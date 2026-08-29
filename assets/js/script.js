@@ -1,0 +1,1 @@
+console.log("Flashcard IT đã tải JavaScript chung.");
